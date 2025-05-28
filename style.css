@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+span{
+    color: red;
+}
+pre {
+    font-family: monospace;
+    font-size: 16px;
+    color: #ff5733; /* Stylish color */
+    text-align: auto;
+}
